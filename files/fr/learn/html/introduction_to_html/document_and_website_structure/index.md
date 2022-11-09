@@ -243,10 +243,10 @@ rendaient de ses marquages la lecture inélégante.</p>
 
 Sans éléments `<br>`, le paragraphe serait rendu par une seule longue ligne (comme précisé plus haut dans ce cours, [HTML ignore la plupart des blancs](/fr/docs/Learn/HTML/Introduction_to_HTML/Getting_started#whitespace_in_html))&nbsp;; avec des \<br> dans le code, voici le rendu de ce qui précède&nbsp;:
 
-Il y avait une fois une fille nommée Nell
-Qui aimait écrire du HTML
-Mais ses structures et sémantiques affligeantes
-rendaient de ses marquages la lecture inélégante.
+<p>Il y avait une fois une fille nommée Nell<br>
+Qui aimait écrire du HTML<br>
+Mais ses structures et sémantiques affligeantes<br>
+rendaient de ses marquages la lecture inélégante.</p>
 
 `Les éléments <hr>` créent un trait horizontal dans le document marquant un changement thématique dans le texte (comme un changement de sujet ou de scène). Visuallement, c'est juste un trait horizontal, comme dans cet exemple&nbsp;:
 
